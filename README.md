@@ -1,5 +1,5 @@
-- 4th year Electrical And Computer Engineering Student @ National Technical University of Athens
-- Aspiring Control Systems Engineer
+- 5th year Electrical And Computer Engineering Student @ National Technical University of Athens
+- Embedded software developer / Digital VLSI Engineer
 - Interests Include : Software Development, Mathematics, Electronics, Control Systems Design
 
 <!---
