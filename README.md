@@ -1,5 +1,5 @@
 - 5th year Electrical And Computer Engineering Student @ National Technical University of Athens
-- Embedded software developer / Digital VLSI Engineer
+- Hardware / Embedded SW engineer
 - Interests Include : Software Development, Mathematics, Electronics, Control Systems Design
 
 <!---
