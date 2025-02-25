@@ -1,6 +1,5 @@
-- 5th year Electrical And Computer Engineering Student @ National Technical University of Athens
-- Computer engineer
-- Interests Include : Software Development, Mathematics, Electronics, Control Systems Design
+- Software Engineer(C++) @ Renesas Electronics
+- Integrated Masters @ ECE NTUA
 
 <!---
 PanagiotisPrountzosCS/PanagiotisPrountzosCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
